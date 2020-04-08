@@ -14,4 +14,8 @@ This repository contains all the working codes for the Mobile Computing Lab cond
 
 **Ex08** : Android Location Tracker Application 
 
+**Ex09** : Android Application for SMS messaging
+
 **Ex10** : Read and write data from SD card 
+
+**Ex11** : Android Alarm Clock
